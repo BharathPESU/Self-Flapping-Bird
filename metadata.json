@@ -1,0 +1,6 @@
+{
+  "name": "Self-Flapping Bird (DQN RL Guide & Simulator)",
+  "description": "Comprehensive Reinforcement Learning guide and interactive simulator for training a Flappy Bird agent using Deep Q-Networks (DQN), Astral uv, and Hugging Face Hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
